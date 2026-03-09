@@ -1,4 +1,4 @@
-const instructions = "Made by Yashant⚡\nInstructions:\n1. Open right hand to perform Rasenshuriken.\n2. Open left hand to perform Chidori.";
+const instructions = "Made by Yashant⚡\nInstructions:\n1. Works best on laptops/computers with screen fit issues on mobile screens.\n2. Open right hand to perform Rasenshuriken.\n3. Open left hand to perform Chidori.";
 alert(instructions);
 
 const vElement = document.getElementById('v_src');
@@ -139,3 +139,4 @@ const cam = new Camera(vElement, {
 });
 
 cam.start();
+
